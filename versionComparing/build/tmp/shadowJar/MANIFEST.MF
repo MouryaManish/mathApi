@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: Manish Mourya
+Description: This is an fat application jar
+Main-Class: com.sojern.CompareVersion
+Multi-Release: true
+
